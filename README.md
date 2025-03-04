@@ -1,4 +1,4 @@
-# Hi there! �� 
+# Hi there! 👋 
 
 I'm a passionate Mobile & Full-Stack Developer specializing in native and cross-platform mobile development, along with modern web technologies.
 
@@ -47,25 +47,24 @@ I'm a passionate Mobile & Full-Stack Developer specializing in native and cross-
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boubligha&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubligha&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight" />
+<a href="https://github.com/boubligha/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boubligha&repo=project1&theme=tokyonight" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight" />
+<a href="https://github.com/boubligha/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boubligha&repo=project2&theme=tokyonight" />
 </a>
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-boubligha-ab4772318/)
 
 ## 📈 Activity Graph
-[![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Boubligha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boubligha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) 
+⭐️ From [boubligha](https://github.com/boubligha) 
