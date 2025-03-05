@@ -51,15 +51,6 @@ I'm a passionate Mobile & Full-Stack Developer specializing in native and cross-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubligha&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌟 Featured Projects
-
-<a href="https://github.com/boubligha/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boubligha&repo=project1&theme=tokyonight" />
-</a>
-<a href="https://github.com/boubligha/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boubligha&repo=project2&theme=tokyonight" />
-</a>
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-boubligha-ab4772318/)
 
